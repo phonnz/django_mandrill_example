@@ -125,4 +125,4 @@ STATIC_URL = '/static/'
 
 EMAIL_BACKEND = 'djrill.mail.backends.djrill.DjrillBackend'
 
-MANDRILL_API_KEY = 's_2BHQGrBLJ52g807hgbZw'
+MANDRILL_API_KEY = 'BLJ52g807hgbZw'
